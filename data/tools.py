@@ -1,4 +1,4 @@
-__author__ = 'justinarmstrong'
+
 
 import os, random
 import pygame as pg

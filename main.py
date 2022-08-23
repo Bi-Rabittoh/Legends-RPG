@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-__author__ = 'justinarmstrong'
+
 
 """This is a fantasy RPG game about a warrior whose
 quest is to recover a magic crown"""
